@@ -1,1 +1,1 @@
-Talks
+The files in this project are licensed under http://creativecommons.org/licenses/by/3.0/
